@@ -2,3 +2,4 @@ passwords
 hashes/*.txt
 cracked
 wordlists/*.txt
+__pycache__
