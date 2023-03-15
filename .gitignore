@@ -1,5 +1,3 @@
-passwords
-hashes/*.txt
 cracked
-wordlists/*.txt
 __pycache__
+*.txt
